@@ -2,6 +2,8 @@
 
 Olá!! Hi there 👋
 
+My name is Ronald and I am an iOS mobile developer with a passion for creating amazing experiences and for discovering new technologies.
+
 - 🇧🇷 I'm from Brazil
 - 👨‍🎓 Bachelor of Computer Science
 - 👨‍💻 I'm an iOS Engineer
